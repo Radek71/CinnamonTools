@@ -4,7 +4,9 @@ This applet is based on [Smart Panel](https://cinnamon-spices.linuxmint.com/exte
 
 ## Compatibility
 
-Tested and working on Cinnamon versions 2.8.8 (Linux Mint 17.3), 3.0.7 (Linux Mint 18) and 3.2.x (Linux Mint 18.1).
+- ![Cinnamon 2.8](https://cdn.rawgit.com/Odyseus/CinnamonTools/master/0MiscFiles/MyBadges/Cinnamon-2.8.svg) ![Linux Mint 17.3](https://cdn.rawgit.com/Odyseus/CinnamonTools/master/0MiscFiles/MyBadges/Linux_Mint-17.3.svg)
+- ![Cinnamon 3.0](https://cdn.rawgit.com/Odyseus/CinnamonTools/master/0MiscFiles/MyBadges/Cinnamon-3.0.svg) ![Linux Mint 18](https://cdn.rawgit.com/Odyseus/CinnamonTools/master/0MiscFiles/MyBadges/Linux_Mint-18.svg)
+- ![Cinnamon 3.2](https://cdn.rawgit.com/Odyseus/CinnamonTools/master/0MiscFiles/MyBadges/Cinnamon-3.2.svg) ![Linux Mint 18.1](https://cdn.rawgit.com/Odyseus/CinnamonTools/master/0MiscFiles/MyBadges/Linux_Mint-18.1.svg)
 
 ## Features
 

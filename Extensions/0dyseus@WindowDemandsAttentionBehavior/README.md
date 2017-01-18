@@ -10,7 +10,9 @@ I found two Gnome Shell Extensions and I mixed their functions into one Cinnamon
 
 ## Compatibility
 
-Tested and working on Cinnamon version 3.0.7.
+- ![Cinnamon 2.8](https://cdn.rawgit.com/Odyseus/CinnamonTools/master/0MiscFiles/MyBadges/Cinnamon-2.8.svg) ![Linux Mint 17.3](https://cdn.rawgit.com/Odyseus/CinnamonTools/master/0MiscFiles/MyBadges/Linux_Mint-17.3.svg)
+- ![Cinnamon 3.0](https://cdn.rawgit.com/Odyseus/CinnamonTools/master/0MiscFiles/MyBadges/Cinnamon-3.0.svg) ![Linux Mint 18](https://cdn.rawgit.com/Odyseus/CinnamonTools/master/0MiscFiles/MyBadges/Linux_Mint-18.svg)
+- ![Cinnamon 3.2](https://cdn.rawgit.com/Odyseus/CinnamonTools/master/0MiscFiles/MyBadges/Cinnamon-3.2.svg) ![Linux Mint 18.1](https://cdn.rawgit.com/Odyseus/CinnamonTools/master/0MiscFiles/MyBadges/Linux_Mint-18.1.svg)
 
 ![Settings window](https://raw.githubusercontent.com/Odyseus/CinnamonTools/master/Extensions/0dyseus%40WindowDemandsAttentionBehavior/screenshot.png "Settings window")
 
