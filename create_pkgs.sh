@@ -10,7 +10,7 @@ ROOT_PATH="`( cd \"$ROOT_PATH\" && pwd )`"   # absolutized and normalized
 # Cleanup folder
 rm -f $ROOT_PATH/pkg/*
 
-sleep 5
+sleep 3
 
 all_applets=("0dyseus@CustomCinnamonMenu" "0dyseus@DesktopHandler" "0dyseus@ExtensionsManager" "0dyseus@PopupTranslator" "0dyseus@QuickMenu" "0dyseus@SysmonitorByOrcus" "0dyseus@window-list-fork")
 all_extensions=("0dyseus@CinnamonMaximusFork" "0dyseus@CinnamonTweaks" "0dyseus@WindowDemandsAttentionBehavior")
@@ -30,7 +30,7 @@ for applet in "${all_applets[@]}" ; do
     )
 done
 
-sleep 5
+sleep 3
 
 for extension in "${all_extensions[@]}" ; do
     echoInfo "====== Packaging $extension ======"
@@ -41,7 +41,7 @@ for extension in "${all_extensions[@]}" ; do
     )
 done
 
-sleep 5
+sleep 3
 
 for theme in "${all_themes[@]}" ; do
     echoInfo "====== Packaging $theme ======"
